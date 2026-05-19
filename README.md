@@ -14,6 +14,7 @@ Hi, I'm Pao!
 - 🌸I'm a student of Computer Science.
 - 🌸I upload my meager progress in competitive programming, I practice once every thousand years and it takes me five decades to understand what to do.
 - 🌸Among other things, I upload the occasional project that will never see the light of day.
+- 🌸starting in robotics (nothing too incredible).
 <hr>
 <hr>
 <hr>
